@@ -15,7 +15,7 @@ public class Main{
       System.out.println(
         "\nRandom Consumer (rdc) - by @AmirHBahrami (github)\n"
         +"  this program generates random numbers and shows them\n"
-        +"  (with an optional delay) on the screen. you can bind the\n"
+        +"  (with a delay) on the screen. you can bind the\n"
         +"  output to your desired file to have the numbers\n"
         +"  flags:\n"
         +"    -h || --help : show this help and don't run the program\n"
